@@ -11,7 +11,7 @@ I followed this [guide](https://collabnix.com/how-to-run-microsoft-sql-in-minute
 | key | value | 
 | ---- | ---- |
 | Server type | Database Engine |
-| Server name | docker.for.mac.host.internal,1433 |
+| Server name | localhost,1433 |
 | Authentication | SQL Server Authentication |
 | Login | sa |
 | Password | Mssqlserver1! |
