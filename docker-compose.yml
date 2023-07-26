@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  sql-server:
+    image: mcr.microsoft.com/mssql/server:latest
+    environment:
+      ACCEPT_EULA: 'Y'
+      SA_PASSWORD: 'Mssqlserver1!'
+    ports:
+      - 1433:1433
