@@ -1,6 +1,8 @@
 # SQL Server Learnings
 I followed this [guide](https://collabnix.com/how-to-run-microsoft-sql-in-minutes-using-docker-desktop/) to set up the MS-SQL DB.
 
+Examples seen are loosely based of the [Microsoft learning path for Transact-SQL](https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/)
+
 ## Key commands
 | desired action | command |
 | ---- | ---- |
